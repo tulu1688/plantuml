@@ -1,0 +1,11 @@
+{
+  "state" : {
+    "desired" : {
+      "ecu" : {
+        "chip_buzzer": 1,
+        "right_light": 1,
+        "left_light": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "state" : {
+    "desired" : {
+      "ecu" : {
+        "trunk_lock": 1
+      }
+    }
+  }
+}

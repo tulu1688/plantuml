@@ -1,0 +1,9 @@
+{
+  "state" : {
+    "desired" : {
+      "ecu" : {
+        "thieft_lock": 1
+      }
+    }
+  }
+}
